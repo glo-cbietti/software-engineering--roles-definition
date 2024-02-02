@@ -4,8 +4,15 @@ Roles definition, career path and job descriptions by these career paths:
 
 - [Software Engineering](./swe-competency-matrix.md),
 - [Quality Assurance](./qa-competency-matrix.md),
-- [UI Engineering](./ui-competency-matrix.md).
+
+## Career path for each technology
+
+![](./static/roadmap.png)
+
+- [Engineer career path](./engineer-competency-matrix.md)
 - [Backend career path](./backend-competency-matrix.md)
+- [Frontend career path](./frontend-compentecy-matrix.md)
+
 
 ## Roles and Job Descriptions
 
@@ -17,6 +24,7 @@ You will find a template and examples to work with Job Descriptions for a recrui
 - [Software Engineer](./job_descriptions/software_engineer.md)
 - [Solutions Architect (SA)](./job_descriptions/solution_architect.md)
 - [Tech Lead (TL)](./job_descriptions/tech_lead.md)
+- [Developer Relations Manager](./job_descriptions/devrel.md)
 - [Subject Matter Expert (SME)](./job_descriptions/subject_matter_expert.md)
 
 ## Technology stack
